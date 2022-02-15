@@ -1,7 +1,5 @@
 <h1 align="left"> Hi there 👋 , I'm Haoxiang. </h1>
 
----
-
 <p align="left">
    <a href="https://www.linkedin.com/in/haoxiang-roy-zhang-a29160142/"><img alt="LinkedIn" src="https://img.shields.io/badge/-HaoxiangZhang-white?style=flat&logo=Linkedin&logoColor=blue"></a>
    <a href="mailto:zhanghx04@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-zhanghx04@gmail.com-white?style=flate&logo=Gmail&logoColor=red"></a>
