@@ -9,12 +9,10 @@
 
 ---
 
-<img align="right" height="165" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="110" src="https://miro.medium.com/max/970/1*xtrODkWnZ5kE2AvinwFXBA.gif"/>
 
 - 🔭 **I’m currently working on:** Master's Project and LeetCode
 - 🌱 **I’m currently learning:** JavaScript Self-Learning
-<!-- - 👯 **I’m looking to collaborate on:** data science projects/competitions -->
-<!-- - 💬 **Ask me about:** N/A -->
 - ⚡ **Hobbies:** internet, music, series, fishing, body-building
 - 😄 **Pronouns:** he/him
 
