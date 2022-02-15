@@ -9,11 +9,12 @@
 
 ---
 
-<img align="right" height="110" src="https://miro.medium.com/max/970/1*xtrODkWnZ5kE2AvinwFXBA.gif"/>
+<img align="right" height="130" src="https://miro.medium.com/max/970/1*xtrODkWnZ5kE2AvinwFXBA.gif"/>
 
 - 🔭 **I’m currently working on:** Master's Project and LeetCode
 - 🌱 **I’m currently learning:** JavaScript Self-Learning
 - ⚡ **Hobbies:** internet, music, series, fishing, body-building
+- 📫 **Graduate Date:** May 2022
 - 😄 **Pronouns:** he/him
 
 ---
