@@ -13,8 +13,8 @@
 
 - 🔭 **I’m currently working on:** Master's Project and LeetCode
 - 🌱 **I’m currently learning:** JavaScript Self-Learning
-- 👯 **I’m looking to collaborate on:** data science projects/competitions
-- 💬 **Ask me about:** N/A
+<!-- - 👯 **I’m looking to collaborate on:** data science projects/competitions -->
+<!-- - 💬 **Ask me about:** N/A -->
 - ⚡ **Hobbies:** internet, music, series, fishing, body-building
 - 😄 **Pronouns:** he/him
 
