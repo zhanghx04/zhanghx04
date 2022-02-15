@@ -14,7 +14,7 @@
 - 🔭 **I’m currently working on:** Master's Project and LeetCode
 - 🌱 **I’m currently learning:** JavaScript Self-Learning
 - 📫 **Graduate Date:** May 2022
-- 🤔 **I’m looking for job:** Software Developer Engineer
+- 🤔 **I’m looking for a job:** Software Developer Engineer
 - ⚡ **Hobbies:** internet, music, series, fishing, body-building
 - 😄 **Pronouns:** he/him
 
