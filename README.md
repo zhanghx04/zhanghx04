@@ -2,6 +2,7 @@
 
 <p align="left">
    <a href="https://www.linkedin.com/in/haoxiang-zhang-a29160142/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-HaoxiangZhang-0075b5?style=flat&logo=Linkedin&logoColor=white"></a>
+   <a href="https://leetcode.com/zhanghx04/"  target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-HaoxiangZhang-yellow?style=flat&logo=LeetCode&logoColor=black">
    <a href="mailto:zhanghx04@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-zhanghx04@gmail.com-eb4336?style=flate&logo=Gmail&logoColor=white"></a>
 </p>
 
