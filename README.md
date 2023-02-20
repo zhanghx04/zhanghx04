@@ -13,8 +13,8 @@
 
 <img align="right" height="140" src="https://miro.medium.com/max/970/1*xtrODkWnZ5kE2AvinwFXBA.gif"/>
 
-- 🔭 **I’m currently working on:** Master's Project and LeetCode
-- 🌱 **I’m currently learning:** JavaScript Self-Learning
+- 🔭 **I’m currently working on:** LeetCode and Job Seeking
+- 🌱 **I’m currently learning:** Java Self-Learning
 - 📫 **Graduate Date:** Dec 2022
 - 🤔 **I’m looking for a job:** Software Developer Engineer
 - ⚡ **Hobbies:** internet, music, series, fishing, body-building
