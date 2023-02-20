@@ -7,7 +7,7 @@
    <a href="https://haoxiang.dev/" target="_blank"><img alt></a>
 </p>
 
-<h3 align="left">  I am a Master's student interested in Software Developer and Computer Vision. </h3>
+<h3 align="left">  I am a fresh graduate of University of Missouri and majoring in Computer Science for a Master degree. </h3>
 
 ---
 
