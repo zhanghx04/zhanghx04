@@ -17,7 +17,7 @@
 - 🌱 **I’m currently learning:** Java Self-Learning
 - 📫 **Graduate Date:** Dec 2022
 - 🤔 **I’m looking for a job:** Software Developer Engineer
-- ⚡ **Hobbies:** internet, music, series, fishing, body-building
+<!-- - ⚡ **Hobbies:** internet, music, series, fishing, body-building -->
 - 😄 **Pronouns:** he/him
 
 ---
