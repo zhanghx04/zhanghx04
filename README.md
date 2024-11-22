@@ -11,10 +11,12 @@
 
 ---
 
-<img align="right" height="140" src="https://miro.medium.com/max/970/1*xtrODkWnZ5kE2AvinwFXBA.gif"/>
+<img align="right" width="500" src="https://miro.medium.com/max/970/1*xtrODkWnZ5kE2AvinwFXBA.gif"/>
 
 - 🔭 **I’m currently working on:** LeetCode and Job Seeking
-- 🌱 **I’m currently learning:** Java Self-Learning
+- 🌱 **I’m currently learning:**
+   - "Ray Tracing Gems II"
+   - NetBurner
 - 📫 **Graduate Date:** Dec 2022
 - 🤔 **I’m looking for a job:** Software Developer Engineer
 <!-- - ⚡ **Hobbies:** internet, music, series, fishing, body-building -->
