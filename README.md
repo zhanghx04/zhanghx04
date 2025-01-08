@@ -7,20 +7,9 @@
    <a href="https://haoxiang.dev/" target="_blank"><img alt></a>
 </p>
 
-<h3 align="left">  I am a fresh graduate of University of Missouri and majoring in Computer Science for a Master degree. </h3>
-
 ---
 
-<img align="right" width="500" src="https://miro.medium.com/max/970/1*xtrODkWnZ5kE2AvinwFXBA.gif"/>
-
-- 🔭 **I’m currently working on:** LeetCode and Job Seeking
-- 🌱 **I’m currently learning:**
-   - "Ray Tracing Gems II"
-   - NetBurner
-- 📫 **Graduate Date:** Dec 2022
-- 🤔 **I’m looking for a job:** Software Developer Engineer
-<!-- - ⚡ **Hobbies:** internet, music, series, fishing, body-building -->
-- 😄 **Pronouns:** he/him
+<img width="500" src="https://miro.medium.com/max/970/1*xtrODkWnZ5kE2AvinwFXBA.gif"/>
 
 ---
 
